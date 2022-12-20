@@ -1,0 +1,22 @@
+body {
+    background-color: violet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Todo{
+    margin-top: 60px;
+    /* border: 1px solid; */
+    /* background-color: rgb(159, 159, 223); */
+}
+input{
+    height: 20px;
+}
+ul{
+    list-style: none;
+}
+li button{
+    background-color: rgb(172, 221, 172);
+}
